@@ -1,0 +1,5 @@
+flask
+transformers
+torch
+PyPDF2
+werkzeug
